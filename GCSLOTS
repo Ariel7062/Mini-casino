@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GCSLOTS - Casino Online</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #000;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    h1 {
+      color: #d4af37;
+      font-size: 3em;
+      margin-bottom: 0.2em;
+    }
+    p {
+      color: #ccc;
+      font-size: 1.2em;
+      margin-bottom: 2em;
+    }
+    .btn {
+      background: linear-gradient(to right, #b30000, #ff0000);
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      font-size: 1em;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: transform 0.2s ease;
+      text-decoration: none;
+    }
+    .btn:hover {
+      transform: scale(1.05);
+    }
+    footer {
+      position: absolute;
+      bottom: 20px;
+      font-size: 0.8em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>GCSLOTS</h1>
+  <p>¡Bienvenido al casino online más emocionante!</p>
+  <a href="#" class="btn">Entrar al Casino</a>
+
+  <footer>
+    © 2025 GCSLOTS | +18 | Juego responsable
+  </footer>
+</body>
+</html>
